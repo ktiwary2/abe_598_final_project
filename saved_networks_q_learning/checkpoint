@@ -1,0 +1,2 @@
+model_checkpoint_path: "Capture the Flag-dqn-10000"
+all_model_checkpoint_paths: "Capture the Flag-dqn-10000"

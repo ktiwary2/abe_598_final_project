@@ -1,0 +1,12 @@
+chardet==3.0.4
+future==0.16.0
+gym==0.9.7
+gym-cap==0.2
+idna==2.6
+numpy==1.14.0
+pygame==1.9.3
+pyglet==1.4.0a1
+requests==2.18.4
+six==1.11.0
+urllib3==1.22
+pandas
